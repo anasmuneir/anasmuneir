@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Security Projects :</h2>
 
-- <b> IAM Cross Account Access </b>
+- <b> Infrastructure as Code Foundations  </b>
 
 <h2> 🤳 Connect with me:</h2>
 
