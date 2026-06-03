@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Security Projects :</h2>
 
-- <b> Infrastructure as Code Foundations  </b>
+- <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/01-terraform-docker-nginx">Infrastructure as Code Foundations — Terraform & Docker</a></b>
 
 <h2> 🤳 Connect with me:</h2>
 
