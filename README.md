@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cloud Security Projects :</h2>
 
 - <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/01-terraform-docker-nginx">Infrastructure as Code Foundations — Terraform & Docker</a></b>
+- <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/02-terraform-aws-iam-security">AWS IAM Security with Terraform (Under Development) </a></b>
 
 <h2> 🤳 Connect with me:</h2>
 
