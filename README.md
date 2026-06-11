@@ -4,7 +4,7 @@
 
 - <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/01-terraform-docker-nginx">Infrastructure as Code Foundations — Terraform & Docker</a></b>
 - <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/02-terraform-aws-iam-security">AWS IAM Security with Terraform  </a></b>
-- <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/blob/main/03-terraform-aws-s3-security/README.md">AWS S3 Security Foundations with Terraform </a></b>
+- <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/blob/main/03-terraform-aws-s3-security/README.md">AWS S3 Security Hardening with Terraform </a></b>
 
 
 
