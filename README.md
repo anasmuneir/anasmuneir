@@ -17,6 +17,9 @@
 - <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/blob/main/03-terraform-aws-s3-security/README.md">AWS S3 Security Hardening with Terraform </a></b>
 - <b><a href="https://github.com/anasmuneir/Cloud-Security-Projects/tree/main/04-terraform-aws-secure-vpc-ec2">AWS Secure VPC and EC2 Deployment with Terraform *(In Progress)* </a></b>
 
+## 🏆 Certifications
+- AWS Certified Cloud Practitioner *(In Progress)*
+
 
 <h2> 🤳 Connect with me:</h2>
 
